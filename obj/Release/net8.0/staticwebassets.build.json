@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "Hash": "YNZN1duQepEe6u+5hG1+NCVkKVs6xeJwk89XYditrSg=",
+  "Source": "Tariff_Comparison",
+  "BasePath": "_content/Tariff_Comparison",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Tariff_Comparison\\wwwroot",
+      "Source": "Tariff_Comparison",
+      "ContentRoot": "C:\\Users\\prasa\\source\\repos\\Tariff_Comparison\\wwwroot\\",
+      "BasePath": "_content/Tariff_Comparison",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\prasa\\source\\repos\\Tariff_Comparison\\wwwroot\\index.html",
+      "SourceId": "Tariff_Comparison",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\prasa\\source\\repos\\Tariff_Comparison\\wwwroot\\",
+      "BasePath": "_content/Tariff_Comparison",
+      "RelativePath": "index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "guc8vzvccy",
+      "Integrity": "+DEZGQvpSq3jc0evDFtC037Innk4tIPmqpJC7BBMxKg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "index.guc8vzvccy.html",
+      "AssetFile": "C:\\Users\\prasa\\source\\repos\\Tariff_Comparison\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3423"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+DEZGQvpSq3jc0evDFtC037Innk4tIPmqpJC7BBMxKg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 21 Jan 2025 08:05:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "guc8vzvccy"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-+DEZGQvpSq3jc0evDFtC037Innk4tIPmqpJC7BBMxKg="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\Users\\prasa\\source\\repos\\Tariff_Comparison\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3423"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+DEZGQvpSq3jc0evDFtC037Innk4tIPmqpJC7BBMxKg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 21 Jan 2025 08:05:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-+DEZGQvpSq3jc0evDFtC037Innk4tIPmqpJC7BBMxKg="
+        }
+      ]
+    }
+  ]
+}

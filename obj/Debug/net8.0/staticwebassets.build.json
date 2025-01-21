@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "Hash": "PWtrUV1wXVmHzNTUDS9vYuOvvu0wgFLZKYh5lItnDQE=",
+  "Source": "Tariff_Comparison",
+  "BasePath": "_content/Tariff_Comparison",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Tariff_Comparison\\wwwroot",
+      "Source": "Tariff_Comparison",
+      "ContentRoot": "C:\\Users\\prasa\\source\\repos\\Tariff_Comparison\\wwwroot\\",
+      "BasePath": "_content/Tariff_Comparison",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\prasa\\source\\repos\\Tariff_Comparison\\wwwroot\\index.html",
+      "SourceId": "Tariff_Comparison",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\prasa\\source\\repos\\Tariff_Comparison\\wwwroot\\",
+      "BasePath": "_content/Tariff_Comparison",
+      "RelativePath": "index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "uincibktxt",
+      "Integrity": "FuAKI6raZscca9m7a+MlZQOF9HiQj85X8lV39+Vv4NY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\Users\\prasa\\source\\repos\\Tariff_Comparison\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3596"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FuAKI6raZscca9m7a+MlZQOF9HiQj85X8lV39+Vv4NY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 21 Jan 2025 07:42:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-FuAKI6raZscca9m7a+MlZQOF9HiQj85X8lV39+Vv4NY="
+        }
+      ]
+    },
+    {
+      "Route": "index.uincibktxt.html",
+      "AssetFile": "C:\\Users\\prasa\\source\\repos\\Tariff_Comparison\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3596"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FuAKI6raZscca9m7a+MlZQOF9HiQj85X8lV39+Vv4NY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 21 Jan 2025 07:42:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "uincibktxt"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-FuAKI6raZscca9m7a+MlZQOF9HiQj85X8lV39+Vv4NY="
+        }
+      ]
+    }
+  ]
+}

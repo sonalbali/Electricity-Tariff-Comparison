@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "Tariff_Comparison.Controllers.TariffsController",
+    "Method": "CompareTariffs",
+    "RelativePath": "api/Tariffs/compare",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "consumption",
+        "Type": "System.Decimal",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[Tariff_Comparison.Models.TariffResult, Tariff_Comparison, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

@@ -1,0 +1,16 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAssetEndpoint Include="_content/Tariff_Comparison/index.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\index.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-FuAKI6raZscca9m7a\u002BMlZQOF9HiQj85X8lV39\u002BVv4NY="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"3596"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022FuAKI6raZscca9m7a\u002BMlZQOF9HiQj85X8lV39\u002BVv4NY=\u0022"},{"Name":"Last-Modified","Value":"Tue, 21 Jan 2025 07:42:40 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Tariff_Comparison/index.uincibktxt.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\index.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"uincibktxt"},{"Name":"integrity","Value":"sha256-FuAKI6raZscca9m7a\u002BMlZQOF9HiQj85X8lV39\u002BVv4NY="},{"Name":"label","Value":"_content/Tariff_Comparison/index.html"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"3596"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022FuAKI6raZscca9m7a\u002BMlZQOF9HiQj85X8lV39\u002BVv4NY=\u0022"},{"Name":"Last-Modified","Value":"Tue, 21 Jan 2025 07:42:40 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+  </ItemGroup>
+</Project>

@@ -49,9 +49,9 @@ dotnet run --project Tariff_Comparison
 ## Project Structure
 
 - `Controllers/` - API endpoints
-- `Models/` - Data models and DTOs
+- `Models/` - Data models
 - `Services/` - Business logic and calculations
-- `Data/` - Data providers and repositories
+- `Data/` - Data providers
 - `wwwroot/` - Static files and frontend
 
 ## API Endpoints

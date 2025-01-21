@@ -18,7 +18,7 @@
 
 1. Clone the repository:
 bash
-git clone https://github.com/yourusername/Electricity-Tariff-Comparison.git
+git clone https://github.com/sonalbali/Electricity-Tariff-Comparison.git
 
 cd Electricity-Tariff-Comparison
 2. Make the install script executable:
